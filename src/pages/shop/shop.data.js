@@ -165,7 +165,7 @@ const SHOP_DATA = [
       },
       {
         id: 2,
-        name: 'Donut Crisp',
+        name: 'Demon\'s Chocolate',
         imageUrl: 'http://localhost:3000/img/dessert2.jpg',
         price: 7
       },
@@ -177,9 +177,9 @@ const SHOP_DATA = [
       },
       {
         id: 4,
-        name: 'Cherry Cheesecake',
+        name: 'Donut Crisp',
         imageUrl: 'http://localhost:3000/img/dessert4.jpg',
-        price: 22
+        price: 4
       },
       {
         id: 5,
