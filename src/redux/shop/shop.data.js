@@ -148,7 +148,7 @@ const SHOP_DATA = [
         id: 35,
         name: 'Imported Parmasean',
         imageUrl: 'http://localhost:3000/img/cheese5.jpg',
-        price: 18
+        price: 29
       },
       {
         id: 36,
@@ -167,7 +167,7 @@ const SHOP_DATA = [
         id: 41,
         name: 'Almond Brownie',
         imageUrl: 'http://localhost:3000/img/dessert1.jpg',
-        price: 9
+        price: 5
       },
       {
         id: 42,
@@ -191,25 +191,25 @@ const SHOP_DATA = [
         id: 45,
         name: 'Cannoli',
         imageUrl: 'http://localhost:3000/img/dessert5.jpg',
-        price: 35
+        price: 18
       },
       {
         id: 46,
         name: 'White Chocolate',
         imageUrl: 'http://localhost:3000/img/dessert6.jpg',
-        price: 13
+        price: 6
       },
       {
         id: 47,
         name: 'Coffee Muffin',
         imageUrl: 'http://localhost:3000/img/dessert7.jpg',
-        price: 20
+        price: 4
       },
       {
         id: 48,
-        name: 'Egg-Free Muffin',
+        name: 'Strawberry Cheesecake',
         imageUrl: 'http://localhost:3000/img/dessert8.jpg',
-        price: 9
+        price: 7
       },
       {
         id: 49,

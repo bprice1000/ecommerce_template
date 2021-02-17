@@ -3,33 +3,33 @@ const INITIAL_STATE = {
         title: 'fruit',
         imageUrl: 'http://localhost:3000/img/fruitMain.jpg',
         id: 1,
-        linkUrl: 'fruit'
+        linkUrl: 'shop/fruit'
       },
       {
         title: 'bread',
         imageUrl: 'http://localhost:3000/img/breadMain.jpg',
         id: 2,
-        linkUrl: ''
+        linkUrl: 'shop/bread'
       },
       {
         title: 'cheese',
         imageUrl: 'http://localhost:3000/img/cheeseMain.jpg',
         id: 3,
-        linkUrl: ''
+        linkUrl: 'shop/cheese'
       },
       {
         title: 'dessert',
         imageUrl: 'http://localhost:3000/img/dessertMain.jpg',
         size: 'large',
         id: 4,
-        linkUrl: ''
+        linkUrl: 'shop/dessert'
       },
       {
         title: 'charcuterie',
         imageUrl: 'http://localhost:3000/img/charMain.jpg',
         size: 'large',
         id: 5,
-        linkUrl: ''
+        linkUrl: 'shop/charcuterie'
       }
     ]
 };
